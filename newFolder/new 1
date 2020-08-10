@@ -1,0 +1,6 @@
+Error scenarios
+
+1. IOException while reading config file(corrupted, permission issue)
+2. Empty config file provided
+3. Empty inclusions list
+4. IOException while copying each inclusion directory
